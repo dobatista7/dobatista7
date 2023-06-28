@@ -17,7 +17,7 @@
 <img align ="center" alt ="html5" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </div><br/>
 
-### Apaixonado por tecnologias que podem  fazer a vida das pessoas melhor e transformar o mundo!🌎
+### Apaixonado por tecnologias que fazem a vida das pessoas melhor e transformam o mundo!🌎
 
 ## Meus contatos:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(dobatista7@gmail.com]
